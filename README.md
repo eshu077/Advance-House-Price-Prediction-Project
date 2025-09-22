@@ -3,7 +3,7 @@
 Is project me maine housing dataset ka use karke advanced house price prediction models build kiye hain.
 Goal tha accurate price prediction ke liye data preprocessing, feature engineering aur machine learning techniques apply karna.
 
-📊 Project Steps
+**📊 Project Steps**
 
 Data Cleaning & Preprocessing: Missing values handle, outliers treat, categorical variables encode
 
@@ -17,7 +17,7 @@ Model Evaluation: Metrics like R² score, Mean Absolute Error (MAE), Root Mean S
 
 Hyperparameter Tuning: Model performance improve karne ke liye GridSearchCV / RandomizedSearchCV
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Language: Python
 
